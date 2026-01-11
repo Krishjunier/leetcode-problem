@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Krishjunier/leetcode-problem/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
+| [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,12 +44,18 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
