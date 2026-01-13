@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
+| [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
