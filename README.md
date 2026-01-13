@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishjunier/leetcode-problem/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
