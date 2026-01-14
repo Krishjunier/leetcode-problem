@@ -17,6 +17,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishjunier/leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/Krishjunier/leetcode-problem/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krishjunier/leetcode-problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
@@ -30,6 +31,7 @@
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Krishjunier/leetcode-problem/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishjunier/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -43,6 +45,7 @@
 | [0076-minimum-window-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Krishjunier/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Krishjunier/leetcode-problem/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishjunier/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
@@ -78,6 +81,7 @@
 | [0097-interleaving-string](https://github.com/Krishjunier/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishjunier/leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Krishjunier/leetcode-problem/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -169,14 +173,17 @@
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Krishjunier/leetcode-problem/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Krishjunier/leetcode-problem/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
