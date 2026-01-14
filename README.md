@@ -45,6 +45,7 @@
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Krishjunier/leetcode-problem/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/Krishjunier/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Krishjunier/leetcode-problem/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
@@ -83,6 +84,7 @@
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Krishjunier/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishjunier/leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Krishjunier/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Krishjunier/leetcode-problem/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
@@ -179,6 +181,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Krishjunier/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 ## Trie
