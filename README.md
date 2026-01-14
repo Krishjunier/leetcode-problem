@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Krishjunier/leetcode-problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Krishjunier/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
@@ -70,6 +71,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Krishjunier/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/3454-separate-squares-ii) |
 ## Greedy
