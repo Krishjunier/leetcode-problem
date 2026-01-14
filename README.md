@@ -11,6 +11,7 @@
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krishjunier/leetcode-problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/3454-separate-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/3454-separate-squares-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krishjunier/leetcode-problem/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
