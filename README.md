@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishjunier/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Krishjunier/leetcode-problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krishjunier/leetcode-problem/tree/master/1266-minimum-time-visiting-all-points) |
@@ -67,6 +68,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Krishjunier/leetcode-problem/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Krishjunier/leetcode-problem/tree/master/0048-rotate-image) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krishjunier/leetcode-problem/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
