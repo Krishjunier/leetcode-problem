@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishjunier/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishjunier/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Krishjunier/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Krishjunier/leetcode-problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Krishjunier/leetcode-problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishjunier/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Krishjunier/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishjunier/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
