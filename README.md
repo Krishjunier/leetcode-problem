@@ -46,6 +46,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishjunier/leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/3454-separate-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishjunier/leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
