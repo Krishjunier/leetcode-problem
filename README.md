@@ -109,10 +109,12 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Krishjunier/leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Krishjunier/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishjunier/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Krishjunier/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Krishjunier/leetcode-problem/tree/master/0053-maximum-subarray) |
 ## Tree
 |  |
@@ -130,4 +132,12 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Krishjunier/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Krishjunier/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
