@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/Krishjunier/leetcode-problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Krishjunier/leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Krishjunier/leetcode-problem/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krishjunier/leetcode-problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Krishjunier/leetcode-problem/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
 | ------- |
