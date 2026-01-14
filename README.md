@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/Krishjunier/leetcode-problem/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krishjunier/leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krishjunier/leetcode-problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/Krishjunier/leetcode-problem/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/3454-separate-squares-ii) |
@@ -38,6 +39,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0076-minimum-window-substring) |
+| [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishjunier/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
@@ -86,6 +88,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Krishjunier/leetcode-problem/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,4 +160,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishjunier/leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Krishjunier/leetcode-problem/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
