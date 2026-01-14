@@ -41,6 +41,7 @@
 | [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Krishjunier/leetcode-problem/tree/master/0097-interleaving-string) |
@@ -76,6 +77,7 @@
 | [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Krishjunier/leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Krishjunier/leetcode-problem/tree/master/0097-interleaving-string) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0044-wildcard-matching) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Krishjunier/leetcode-problem/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0044-wildcard-matching) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
