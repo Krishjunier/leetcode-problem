@@ -32,6 +32,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishjunier/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
@@ -59,6 +61,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Krishjunier/leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
