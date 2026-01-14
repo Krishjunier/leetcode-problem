@@ -30,6 +30,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishjunier/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Krishjunier/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Krishjunier/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0076-minimum-window-substring) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishjunier/leetcode-problem/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Krishjunier/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Krishjunier/leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Krishjunier/leetcode-problem/tree/master/0085-maximal-rectangle) |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Krishjunier/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Krishjunier/leetcode-problem/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
